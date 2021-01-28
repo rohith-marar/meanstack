@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+h1{
+    margin: 0;
+    padding: 0;
+
+}
+h3{
+    font-family: 'Indie Flower', cursive;
+}
+#one{
+    width: 100px;
+    border-style: solid;
+    border-color: teal;
+}
+
+#top{
+    position: relative;
+    left: 20%;
+    background-color: rgb(56, 88, 136);
+    border-style: solid;
+    border-color: tomato;
+    border-width: 1px;
+    width: 40%;
+   /* margin-left: 40%; */
+  /*  padding-left: 5%; */
+}
+#bottom{
+
+    background-color: rgb(128, 136, 56);
+    border-style: solid;
+    border-color: tomato;
+    border-width: 1px;
+    width: 40%;
+     margin-top: 30%;
+    margin-left: 40%;
+} 
