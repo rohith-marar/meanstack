@@ -1,0 +1,39 @@
+#img{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    
+}
+#a{
+    background-color: papayawhip;
+    padding-top: 1%;
+    margin-left: 42%;
+    width: 225px;
+    height: 180px;
+}
+.us{
+    padding-left: 4%;
+}
+.ty{
+    margin-left: 4%;
+    width: 88%;
+}
+
+.ab{
+    margin-left: 4%;
+padding-left: 10%;
+background-color: limegreen;
+width: 90%;
+}
+#b{
+    background-color: oldlace;
+    padding-top: 1%;
+    margin-left: 42%;
+    width: 225px;
+    height: 45px;
+}
+#c{
+    text-align: center;
+}
+

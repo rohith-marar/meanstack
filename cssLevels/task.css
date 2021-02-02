@@ -1,0 +1,44 @@
+h1{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+#a{
+    background-color: cornflowerblue;
+    height: 400px;
+    width: 200px;
+    margin-left: 10%;
+    float: left;
+}
+#b{
+    float: left;
+    background-color: cyan;
+    height: 400px;
+    width: 200px;
+    margin-left: 1%;
+
+}
+#c{
+    float: left;
+    background-color: darkgray;
+    height: 400px;
+    width: 200px;
+    margin-left: 1%;
+
+}
+#d{
+    float: left;
+    background-color: gainsboro;
+    height: 400px;
+    width: 200px;
+    margin-left: 1%;
+
+}
+#e{
+    float: left;
+    background-color: red;
+    height: 400px;
+    width: 200px;
+    margin-left: 1%;
+
+}
+
